@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+File "vc11.jpg"
+Type "RASTER"
+(400000,83000) (0,2400) Label "Pt 1",
+(490000,83000) (3600,2400) Label "Pt 2",
+(490000,143000) (3600,0) Label "Pt 3",
+(400000,143000) (0,0) Label "Pt 4"
+CoordSys Earth Projection 8, 42, "m", -8, 53.5, 1.000035, 200000, 250000
+Units "m"
